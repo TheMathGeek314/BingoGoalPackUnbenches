@@ -1,0 +1,454 @@
+﻿[
+    {
+        "name": "Mato unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Room_nailmaster",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Crossroads Hot Springs unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Crossroads_30",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Crossroads Stag unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Crossroads_47",
+            "expectedValue": true
+        },
+        "canUnmark": true
+
+    },
+    {
+        "name": "Salubra unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Crossroads_04",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Ancestral Mound unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Crossroads_ShamanTemple",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Waterfall unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Fungus1_01b",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Stone Sanctuary unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Fungus1_37",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Greenpath Toll unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Fungus1_31",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Greenpath Stag unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Fungus1_16_alt",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Lake of Unn unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Room_Slug_Shrine",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Sheo unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Fungus1_15",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Archives unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Fungus3_archive",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Queen's Station unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Fungus2_02",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Leg Eater unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Fungus2_26",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Bretta unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Fungus2_13",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Mantis Village unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Fungus2_31",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "City Quirrel unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Ruins1_02",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "City Toll unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Ruins1_31",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "City Storerooms unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Ruins1_29",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Watcher's Spire unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Ruins1_18",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "King's Station unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Ruins2_08",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Pleasure House unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Ruins_Bathhouse",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Waterways unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Waterways_02",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Deepnest Hot Springs unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Deepnest_30",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Failed Tramway unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Deepnest_14",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Beast's Den unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Deepnest_Spider_Town",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Basin Toll unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Abyss_18",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Hidden Station unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Abyss_22",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Oro unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Deepnest_East_06",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Camp unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Deepnest_East_13",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Colosseum unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Room_Colosseum_02",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Hive unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Hive_01",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Peak Dark Room unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Mines_29",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Crystal Guardian unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Mines_18",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Resting Grounds Stag unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_RestingGrounds_09",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Grey Mourner unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_RestingGrounds_12",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Queen's Gardens Cornifer unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Fungus1_24",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Queen's Gardens Toll unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Fungus3_50",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Queen's Gardens Stag unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Fungus3_40",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Upper Tram unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Room_Tram_RG",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Lower Tram unbench",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unbench_Room_Tram",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "City Gate unhardsave",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unhardsave_Fungus2_21",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Desolate Dive unhardsave",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unhardsave_Ruins1_24",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Lurien unhardsave",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unlurienDefeated",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Monomon unhardsave",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unmonomonDefeated",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Beast's Den / Herrah unhardsave",
+        "condition": {
+            "type": "Or",
+            "conditions": [
+                {
+                    "type": "Bool",
+                    "variableName": "unhegemolDefeated",
+                    "expectedValue": true
+                },
+                {
+                    "type": "Bool",
+                    "variableName": "unhardsave_Deepnest_Spider_Town",
+                    "expectedValue": true
+                }
+            ]
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "King's Brand unhardsave",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unhardsave_Room_Wyrm",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Shade Cloak unhardsave",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unhardsave_Abyss_10",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    },
+    {
+        "name": "Godseeker unhardsave",
+        "condition": {
+            "type": "Bool",
+            "variableName": "unhardsave_GG_Waterways",
+            "expectedValue": true
+        },
+        "canUnmark": true
+    }
+]
