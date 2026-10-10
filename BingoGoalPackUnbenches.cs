@@ -11,7 +11,7 @@ using BingoSync.Interfaces;
 namespace BingoGoalPackUnbenches {
     public class BingoGoalPackUnbenches: Mod {
         new public string GetName() => "BingoGoalPackUnbenches";
-        public override string GetVersion() => "1.1.0.0";
+        public override string GetVersion() => "1.2.0.0";
 
         public override void Initialize(Dictionary<string, Dictionary<string, GameObject>> preloadedObjects) {
             OrderedLoader.OnReadyForGoalsGameModes += SetupGoalsGameModes;
@@ -26,10 +26,10 @@ namespace BingoGoalPackUnbenches {
             Assembly assembly = Assembly.GetExecutingAssembly();
             string resourceName = assembly.GetManifestResourceNames().Single(str => str.EndsWith("Unbenches.json"));
             Stream stream = assembly.GetManifestResourceStream(resourceName);
-            Dictionary<string, BingoGoal> unbenchGoals = BingoSync.Goals.ProcessGoalsStream(stream);
-            GameMode mode_unbenches = new("Unbenches", unbenchGoals);
-            BingoSync.Goals.AddGameMode(mode_unbenches);
-            BingoSync.Goals.RegisterGoalsForCustom("Unbenches", unbenchGoals);
+            Dictionary<string, BingoGoal> unbenchGoals = Goals.ProcessGoalsStream(stream);
+            IGameMode mode_unbenches = new SimpleGameMode("Unbenches", unbenchGoals);
+            Goals.AddGameMode(mode_unbenches);
+            Goals.RegisterGoalsForCustom("Unbenches", unbenchGoals);
         }
     }
 }
